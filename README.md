@@ -1,2 +1,2 @@
 # Workshop-SQL
-workshop
+AdventureWorks2014
